@@ -1,4 +1,4 @@
-package com.londonappbrewery.destini;
+package com.saimadhu.destini;
 
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
